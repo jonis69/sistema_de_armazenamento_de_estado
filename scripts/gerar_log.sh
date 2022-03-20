@@ -108,10 +108,6 @@ done < saida.txt
 
 echo "</div>
 
-<!-- <div class="footer">
-  <h1>Fim do log de dados</h1>
-</div> -->
-
 </body>
 </html>"
 }
