@@ -5,6 +5,9 @@ Atividade avaliativa da 1a unidade de Servidores de Redes.
 1. Ter o servidor web apache2 instalado em sua máquina
 2. Muita coragem
 
+## !!!Aviso importante!!!
+Este script foi testado apenas em um Linux Mint 20.2 e um Debian Bullseye
+
 ## Funcionalidades:
 Este sistema irá coletar dados sobre a máquina e configura uma página HTML que irá conter as seguintes informações:
 - Das 07h às 23:59 estará disponível uma página que será atualizada a cada 2 minutos com o seguinte:
