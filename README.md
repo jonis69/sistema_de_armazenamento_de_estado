@@ -55,4 +55,4 @@ http://127.0.0.5
 ![Alt text](/demonstracao_log.gif)
 
 ## Erros conhecidos:
-- Se a página não carregar após 1 ou 2 minutos, vá até a pasta ***var/www/scripts***, execute o script ***gerar_log.sh*** e tente carregar a página novamente
+- Se a página não carregar após 1 ou 2 minutos, vá até a pasta ***/var/www/scripts***, execute o script ***gerar_log.sh*** e tente carregar a página novamente
