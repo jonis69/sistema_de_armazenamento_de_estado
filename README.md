@@ -5,6 +5,9 @@ Atividade avaliativa da 1a unidade de Servidores de Redes.
 1. Ter o servidor web apache2 instalado em sua máquina
 2. Muita coragem
 
+## !!!Aviso importante!!!
+Este script foi testado apenas em um Linux Mint 20.2 e um Debian Bullseye
+
 ## Funcionalidades:
 Este sistema irá coletar dados sobre a máquina e configura uma página HTML que irá conter as seguintes informações:
 - Das 07h às 23:59 estará disponível uma página que será atualizada a cada 2 minutos com o seguinte:
@@ -55,4 +58,4 @@ http://127.0.0.5
 ![Alt text](/demonstracao_log.gif)
 
 ## Erros conhecidos:
-- Se a página não carregar após 1 ou 2 minutos, vá até a pasta ***var/www/scripts***, execute o script ***gerar_log.sh*** e tente carregar a página novamente
+- Se a página não carregar após 1 ou 2 minutos, vá até a pasta ***/var/www/scripts***, execute o script ***gerar_log.sh*** e tente carregar a página novamente
