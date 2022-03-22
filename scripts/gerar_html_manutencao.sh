@@ -67,4 +67,6 @@ img {
 
 tela_manutencao > index.html
 
+sudo rm -f /var/www/atividade.info/html/index.html
+sleep .5
 sudo mv index.html /var/www/atividade.info/html
