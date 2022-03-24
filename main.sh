@@ -8,6 +8,18 @@ sudo chown -R $USER:$USER /var/www/atividade.info/html
 sudo chmod -R 755 /var/www/atividade.info
 
 echo "
+<html>
+<head>
+<title>Placeholder</title>
+</head>
+<body>
+<h1>Se estiver vendo esta página, espere aproximadamente 2 minutos e recarregue ou execute o script 'gerar_log.sh' na pasta /www/var/scripts</h1>
+</body>
+</html>
+" > /var/www/atividade.info/html/index.html
+
+
+echo "
 <VirtualHost *:80>
     ServerAdmin admin@atividade.info
     ServerName atividade.info
